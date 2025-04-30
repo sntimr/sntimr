@@ -4,16 +4,15 @@
 <p align="center">
   <a href="https://github.com/sntimr"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi%2C+welcome+to+my+Github+profile;I'm+Santiago+Martínez🔥;I'm+an+AI+Engineering+Student"></a></p>
 <p align="center">  
-<a href="https://www.linkedin.com/in/tu-usuario" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hridoyalhazard" height="30" width="40" /></a>
-<a href="mailto:tuemail@example.com" target="_blank">
+<a href="www.linkedin.com/in/santiago-martínez-bb1b79359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sntimr?igsh=MmN1eHI3cGwzMnln" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hridoyalhazard" height="30" width="40" /></a>
+<a href="mailto:santiago.martinez06@outlook.com" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" height="30" width="40" />
 </a>
 </p>
 
 
     
-<h2 align="center">😃 About me </h2>
 
 <br>
 <h2 align="center">🛠️ Technologies I work with:</h2>
